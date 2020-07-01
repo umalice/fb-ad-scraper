@@ -1,3 +1,3 @@
 # fb-ad-scraper
 
-requires `chromedriver`
+run with `node ads.js`
